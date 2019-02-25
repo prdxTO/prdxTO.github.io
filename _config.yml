@@ -1,11 +1,11 @@
 # Site settings
 title: Bradley A. Chow
-email: itsbradchow@gmail.com
+email: tba
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: prdxto.github.io # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: tba
 github_username: prdxto
 
 # Build settings

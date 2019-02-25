@@ -2,151 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbc4b589-5dd9-4f18-b70b-7d83b624c598" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/License.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/addons/datatables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/addons/datatables.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/free/modules/animations-extended/animations-extended.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/mdb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/mdb.lite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/mdb.lite.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/mdb.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Thin.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/lightbox/default-skin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/lightbox/default-skin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/lightbox/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/overlays/09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/svg/arrow_left.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/img/svg/arrow_right.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/addons/datatables.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/addons/datatables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/mdb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/mdb.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/enhanced-modals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/forms-free.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/jquery.easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/scrolling-navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/velocity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/velocity.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/waves.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/modules/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/_custom-styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/_custom-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/addons/_datatables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_colors.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_masks.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/_waves.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/bootstrap/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/core/bootstrap/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_animations-basic.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_badges.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_cards.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_carousels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_depreciated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_dropdowns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_footers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_loader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_modals.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_msc.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_navbars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_steppers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_switch.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/mdb.lite.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/mdb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prdxto-resume/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/call-to-action.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/front.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/front.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -184,19 +35,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+        <entry file="file://$PROJECT_DIR$/_layouts/front.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="42" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="288">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="216">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -207,19 +76,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.scss">
+        <entry file="file://$PROJECT_DIR$/_includes/aside.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="54">
+              <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -227,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-432" />
+            <state relative-caret-position="-961" />
           </provider>
         </entry>
       </file>
@@ -253,6 +113,7 @@
       <find>button</find>
       <find>hr</find>
       <find>itsbradchow</find>
+      <find>call-to</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -269,7 +130,12 @@
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/css/main.scss" />
+        <option value="$PROJECT_DIR$/_includes/call-to-action.html" />
+        <option value="$PROJECT_DIR$/_layouts/front.html" />
+        <option value="$PROJECT_DIR$/_includes/about.html" />
+        <option value="$PROJECT_DIR$/_includes/aside.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/contact.html" />
       </list>
     </option>
   </component>
@@ -331,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551072074002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551074632139" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -359,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551066976783</updated>
-      <workItem from="1551066977934" duration="5087000" />
+      <workItem from="1551066977934" duration="7210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5087000" />
+    <option name="totallyTimeSpent" value="7210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -497,19 +363,6 @@
         <state relative-caret-position="-162" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/call-to-action.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/aside.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/front.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -527,6 +380,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -541,39 +411,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
+    <entry file="file://$PROJECT_DIR$/_layouts/front.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432" />
+        <state relative-caret-position="-961" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+    <entry file="file://$PROJECT_DIR$/_includes/aside.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="54">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
         </state>
       </provider>
     </entry>
